@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  font-size: 16px;
+  list-style: none;
+}
+
+button {
+  background-color: rgba(0, 0, 0, 0.404);
+  color: white;
+  padding: 10px 20px;
+  font-size: 14px;
+}
